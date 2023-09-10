@@ -8,7 +8,7 @@ on:
     paths:
       - ios/**
       - "package.json"
-      - "package-lock.json"
+      - "package-lock.json" 
 
 jobs:
   verify:
